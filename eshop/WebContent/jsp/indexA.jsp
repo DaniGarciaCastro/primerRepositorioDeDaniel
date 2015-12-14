@@ -4,7 +4,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <title>Welcome to Daniel e-Shop</title>
+  <title>Welcome to Daniel e-Shop 2</title>
   <link rel="stylesheet" href="/eshop/css/eshop.css" type="text/css"/>
   </head>
 <body>
