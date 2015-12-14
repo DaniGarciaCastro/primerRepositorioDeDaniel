@@ -10,7 +10,7 @@
 <jsp:include page="TopMenu.jsp" flush="true"/>
 <jsp:include page="LeftMenu.jsp" flush="true"/>
 <div class="content">
-  <h1>Welcome to e-Shop Usuario</h1>
+  <h1>Welcome to e-Shop Usuario 2</h1>
   </div>
 </body>
 </html>
